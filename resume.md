@@ -25,8 +25,8 @@ King Abdulaziz University
 
 ## Awards
 
-First place in an information competition at the university level.
-3rd place in the e-commerce hackathon.
+First place in an information competition at the university level,
+3rd place in the e-commerce hackathon,
 First Champion of the Week in DevOps Camp, week 1
 
 
@@ -34,7 +34,7 @@ First Champion of the Week in DevOps Camp, week 1
 
 ## Projects
 
-Improving the academic accreditation system for the college provided by ABET
+Improving the academic accreditation system for the college provided by ABET,
 Build a program to encrypt and decrypt all computer files
 
 <!-- ### Footer
